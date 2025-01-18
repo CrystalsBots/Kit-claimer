@@ -1,0 +1,20 @@
+Download the Repository
+Download all files from this GitHub repository.
+
+Create a New Folder
+Make a new folder where you want your bot to be located.
+
+Extract Files
+Unarchive the downloaded files and drag them into the new folder.
+
+Install Node.js
+Download and install Node.js from nodejs.org. This is necessary for running the bot.
+
+Configure Your Settings
+Open config.txt and update your account details and gift name.
+
+Run the Bot
+Double-click run.bat to start the bot.
+
+Enjoy Your Kits!
+The bot is now ready, and you will continuously receive your kits!
