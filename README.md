@@ -7,4 +7,5 @@ Claims the most important ExtraKits: Knockback, Knockback+, Looting, Looting+, P
 Automatically gifts kits—you don’t need to stop the accounts or log in to claim them! The bot will handle everything and /gift them for you.
 
 🎁 Immortal Rank Account Gift Example
+
 ![6724](https://github.com/user-attachments/assets/361e6cd6-8bbf-41d6-8578-8908d13dc386)
